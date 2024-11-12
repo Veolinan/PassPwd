@@ -6,15 +6,16 @@ This Python program checks the security of passwords by comparing them against a
 
 1. Ensure that you have Python 3 installed on your machine.
 
-2. Install the required libraries by running the following command:
+2. Clone this repository by running ``` git clone https://github.com/Veolinan/PassPwd.git ```
+
+3. Open the terminal or command prompt and navigate to the project directory.
+If you are using windows run  ``` cd PassPwd ```
+
+4. Install the required libraries by running the following command:
 ```
 pip install requests
+
 ```
-
-3. Clone this repository by running ``` git clone https://github.com/Veolinan/PassPwd.git ```
-
-4. Open the terminal or command prompt and navigate to the project directory.
-If you are using windows run  ``` cd PassPwd ```
 
 5. Run the `app.py` file using the Python interpreter by running command ``` py app.py ``` on cmd
 
