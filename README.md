@@ -11,11 +11,12 @@ This Python program checks the security of passwords by comparing them against a
 pip install requests
 ```
 
-3. Clone this repository by running 'git clone https://github.com/Veolinan/PassPwd.git'
+3. Clone this repository by running ``` git clone https://github.com/Veolinan/PassPwd.git ```
 
 4. Open the terminal or command prompt and navigate to the project directory.
+If you are using windows run  ``` cd PassPwd ```
 
-5. Run the `app.py` file using the Python interpreter by running command 'py app.py' on commandline
+5. Run the `app.py` file using the Python interpreter by running command ``` py app.py ``` on cmd
 
 
 
